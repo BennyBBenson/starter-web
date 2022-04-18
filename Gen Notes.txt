@@ -1,0 +1,66 @@
+Laurence Tseng, Analytics
+
+Stanley Akano - ITDP Participant in Data analytics for service
+
+Greg Bowen - Analytics L4 Leader
+
+
+
+Udemy courses
+	Outlook 
+	Agile
+
+
+
+
+
+What to say to managers
+
+Skills:
+	Finance Background
+
+	Data Science: 
+		Python, SQL, R, Excel, Tableau, SAS
+	Other Skills:
+		Java, AWS Solutions Architect / Cloud Computing Certifications
+
+Interests:
+	Data, Big data, analytics, databases, automation
+
+Strengths:
+	Ability and desire to learn
+	Broaden my horizons
+
+
+
+
+
+First Meeting: Ranga Parvatanei
+EBA
+Data Harmonization
+Data Visualization
+
+Hadoop, Taradata, Greenplum
+
+Visualization
+	Power BI, Tableau
+
+Supply Chain:
+
+Software:
+Copca
+CACD Devops, data pipelines Copca
+
+Questions to ask:
+	Automatic drawing of data into data pool, how does that look?
+	What are data visualizaitons used for directly? Are they for consumers or internal?
+
+
+Roles reporting to Ranga:
+Product managers
+PPM
+Data architects
+ETL architects
+ETL Developers
+(mainly developers)
+
